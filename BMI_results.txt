@@ -1,0 +1,4 @@
+Your BMI is 33.24
+Your BMI is 33.24, you are obese.
+Your BMI is 60.49
+Your BMI is 60.49, you are clinically obese.
